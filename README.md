@@ -4,20 +4,20 @@ Objective: Chat with one or multiple pdf files using any of OpenAI models!
 
 # What I did:
 
-Used React and Nodejs
-OpenAI API integration 
-Upload and delete PDFs for search
-Made friendly UI
+Used React and Nodejs<br/>
+OpenAI API integration <br/>
+Upload and delete PDFs for search <br/>
+Made friendly UI <br/>
 
 
 # Steps to run:
-  1 write your openAI api credentials in .env file. (change .env.exam file name to .env file)
-  2. cd server
-  3. npm install
-  4. node server.js
-  5. cd client
-  6. npm install
-  7. npm start
+  1 write your openAI api credentials in .env file. (change .env.exam file name to .env file) <br/>
+  2. cd server <br/>
+  3. npm install <br/>
+  4. node server.js <br/>
+  5. cd client <br/>
+  6. npm install <br/>
+  7. npm start <br/>
 
 
 ![image](https://github.com/Sanchya1/Know_Your_PDF/assets/100153181/a67eae05-4cc7-4d6b-921d-5deee78b9cfa)
