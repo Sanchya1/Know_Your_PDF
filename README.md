@@ -10,7 +10,8 @@ Upload and delete PDFs for search <br/>
 Made friendly UI <br/>
 
 
-# Steps to run:
+# Steps to set it up:
+
   1 write your openAI api credentials in .env file. (change .env.exam file name to .env file) <br/>
   2. cd server <br/>
   3. npm install <br/>
