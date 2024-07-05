@@ -1,6 +1,6 @@
 # KnowYourPDF
 
-Objective: Chat with one or multiple pdf files using any of OpenAI models!
+Objective: Chat with one or multiple pdf files using OpenAI model!
 
 # What I did:
 
